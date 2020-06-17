@@ -1,0 +1,3 @@
+int X = 100;
+double Z = 100.20;
+char M;
